@@ -1,0 +1,51 @@
+Mr. Jones,Donkeys
+Mr. Jones,Snowball
+Old Major,Benjamin
+Bluebell,Jessie
+Bluebell,Pincher
+Jessie,Bluebell
+Boxer,Clover
+Boxer,Old Major
+Boxer,Mr. Jones
+Boxer,Napoleon
+Boxer,Jessie
+Boxer,Bluebell
+Boxer,Benjamin
+Clover,Boxer
+Clover,Benjamin
+Clover,Muriel
+Muriel,Benjamin
+Muriel,Snowball
+Muriel,Napoleon
+Benjamin,Boxer
+Benjamin,Clover
+Benjamin,Alfred Simmonds
+Mollie,Mr. Jones
+Mollie,Clover
+Mollie,Snowball
+Snowball,Napoleon
+Snowball,Mr. Jones
+Snowball,Julius Caesar
+Snowball,Mr. Frederick
+Snowball,Mr. Pilkington
+Napoleon,Snowball
+Napoleon,Old Major
+Napoleon,Squealer
+Napoleon,Minimus
+Napoleon,Whymper
+Napoleon,Mr. Jones
+Napoleon,Mr. Pilkington
+Napoleon,Mr. Frederick
+Napoleon,Boxer
+Napoleon,Ducklings
+Squealer,Mr. Jones
+Squealer,Napoleon
+Squealer,Boxer
+Mr. Pilkington,Mr. Frederick
+Mr. Pilkington,Napoleon
+Mr. Frederick,Mr. Pilkington
+Mr. Frederick,Snowball
+Whymper,Napoleon
+Whymper,Mr. Pilkington
+Whymper,Mr. Frederick
+Black Minorca Pullets,Napoleon
